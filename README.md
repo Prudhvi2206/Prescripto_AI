@@ -7,9 +7,17 @@
 [![NVIDIA NIM](https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://build.nvidia.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
+### 🌐 Live Production Deployments
+*   🚀 **Production Web Application**: [https://prescripto-ai-frontend.vercel.app](https://prescripto-ai-frontend.vercel.app)
+*   ⚙️ **Production API Service**: [https://prescripto-backend-rv5p.onrender.com](https://prescripto-backend-rv5p.onrender.com)
+*   📄 **Interactive API Docs (Swagger)**: [https://prescripto-backend-rv5p.onrender.com/docs](https://prescripto-backend-rv5p.onrender.com/docs)
+
+---
+
 Prescripto AI is a state-of-the-art, premium medical assistant application. It allows users to scan paper prescriptions using advanced AI computer vision, automatically extracts prescribed medications with precise dosages and warnings, performs safety cross-checks against the official **OpenFDA database**, tracks daily compliance streaks in a gorgeous interactive tracker, and features a real-time conversational AI health assistant.
 
 ---
+
 
 ## 📸 Desktop & Mobile Preview
 
