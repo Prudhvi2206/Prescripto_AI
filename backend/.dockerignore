@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+venv
+.env
+*.db
+scratch/
+check_users.py
+test_*.py
+migrate_db.py
