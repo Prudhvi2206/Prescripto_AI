@@ -19,14 +19,6 @@ Prescripto AI is a state-of-the-art, premium medical assistant application. It a
 ---
 
 
-## 📸 Desktop & Mobile Preview
-
-The application features a sleek glassmorphic dashboard optimized for both desktop view and responsive Progressive Web App (PWA) installation on iOS and Android devices.
-
-*Sleek interactive medicine compliance tracker, AI assistant conversation panel, and dynamic health stats.*
-
----
-
 ## ⚡ Key Features
 
 1. **📷 AI Prescription OCR Scanner**
